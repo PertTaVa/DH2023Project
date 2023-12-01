@@ -6,7 +6,7 @@
 
 > An important indicator of the specificity of style is rhythm.
 
-- Is it possible to determine the rhythm in a paragraph/chunk/short part of the text, when using automatic search algorithms for rhythmic means?
+- Is it possible to determine the rhythm in a paragraph/chunk/short part of the text, when using automatic search algorithms for rhythmic measuring?
 
 #If this is possible, then next:
 > Analysis of the author's style to see how it changed over a given period of time.
