@@ -1,6 +1,16 @@
 # DH2023Project
 
 #Stylometry tools
+#Rhytm
+-#Application of stylometric indicators for style analysis. 
+
+> An important indicator of the specificity of style is rhythm.
+
+- Is it possible to determine the rhythm in a paragraph/chunk/short part of the text, when using automatic search algorithms for rhythmic means?
+
+#If this is possible, then next:
+> Analysis of the author's style to see how it changed over a given period of time.
+> This will also allow you to recognize anonymous sources based on the data entered, establish additional historical details, will allow to create a more detailed reconstruction of a particular historical period.
 
 #Finding interesting keywords in the headers 
 
