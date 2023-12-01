@@ -2,7 +2,7 @@
 
 #Stylometry tools
 #Rhytm
--#Application of stylometric indicators for style analysis. 
+#Stylometric indicators for style analysis. 
 
 > An important indicator of the specificity of style is rhythm.
 
