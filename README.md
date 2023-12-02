@@ -1,6 +1,7 @@
 # DH2023Project
 #Stylometry tools #Сemantic context
-How can we distinguish how much philosophy and how much religion in the text that for sure?
+
+>How can we distinguish how much philosophy and how much religion in the text that for sure?
 Keywords Associated with Philosophy:
 1. Virtue
 2. Morality
