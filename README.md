@@ -2,7 +2,8 @@
 #Stylometry tools #Сemantic context
 
 >How can we distinguish how much philosophy and how much religion in the text that for sure?
-Keywords Associated with Philosophy:
+
+-Keywords Associated with Philosophy:
 1. Virtue
 2. Morality
 3. Nature of man
@@ -13,7 +14,7 @@ Keywords Associated with Philosophy:
 8. Self-love
 9. Conscience
 
-Keywords Associated with Religion:
+-Keywords Associated with Religion:
 1. God
 2. Son
 3. Christian
