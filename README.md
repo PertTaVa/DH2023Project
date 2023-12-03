@@ -29,7 +29,7 @@ Keywords Associated with Religion:
  1. conscience
  2. society
     
-#Rhytm
+#Prose Rhythm in prose
 #Stylometric indicators for style analysis. 
 
 > An important indicator of the specificity of author's style is the rhythm.
