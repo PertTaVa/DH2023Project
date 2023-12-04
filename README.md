@@ -1,5 +1,5 @@
 # DH2023Project
-#Stylometry tools #Сemantic context
+#Stylometry tools #Semantic context
 
 >How can we distinguish how much philosophy and how much religion in the text that for sure?
 
